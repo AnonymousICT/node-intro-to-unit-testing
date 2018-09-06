@@ -8,7 +8,7 @@ module.exports = function(num) {
 	if (num % 5 === 0) {
 		return 'buzz';
 	}
-	if (num % 3 === 0) {
+	if (num % 3 === 0) { 
 		return 'fizz';
 	}
 	else {
